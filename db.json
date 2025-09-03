@@ -3,21 +3,14 @@
     {
       "id": "1",
       "username": "NewREX",
-      "password": "Fb20032003"
-    },
-    {
-      "id": "470b",
-      "username": "NewREXX",
-      "password": "1337",
+      "password": "Fb20032003",
       "status": "active",
       "banEndDate": null
     },
     {
-      "id": "ee95",
+      "id": "e8b9",
       "username": "MMHVH",
-      "password": "1337",
-      "status": "active",
-      "banEndDate": null
+      "password": "1337"
     }
   ]
 }

@@ -32,15 +32,15 @@ function App() {
   }
 
 
-  useEffect(() => {
-    // getAllUsers().
-    //getUserById(2)
-    const newUser = {
-      "username": "MMHVH",
-      "password": "1337",
-    }
-    createUser(newUser)
-  }, [])  // <- sadece component ilk render olduğunda çalışır
+  //useEffect(() => {
+  // getAllUsers().
+  //getUserById(2)
+  //const newUser = {
+  //"username": "MMHVH",
+  //"password": "1337",
+  //}
+  //createUser(newUser)
+  //}, [])  // <- sadece component ilk render olduğunda çalışır
 
   return (
     <div>
