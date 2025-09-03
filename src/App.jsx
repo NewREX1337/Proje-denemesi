@@ -40,7 +40,7 @@ function App() {
   //"password": "1337",
   //}
   //createUser(newUser)
-  //}, [])  // <- sadece component ilk render olduğunda çalışır
+  //}, [])  //İLK RENDERLAMADA F5 ATINCA KULLANICIYI EKLER KENARDA DURSUN 
 
   return (
     <div>
